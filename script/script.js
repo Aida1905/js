@@ -49,3 +49,38 @@
 // const d = c;
 // const result = c + d;
 // console.log(result)
+
+
+//const a = 10;
+
+//if (a === 10){
+    //console.log(true)
+//}
+
+//else {
+    //console.log(false)
+//}
+
+//const a = 30;
+//const b = 100;
+
+//if (a > b ) {
+   // console.log("a bolshe b")
+//}
+//else{
+   // console.log("a menshe b")
+//}
+
+///const a = -2;
+
+
+//if (a > 0) {
+   // console.log("positive")
+//}
+//else if (a === 0){
+    //console.log("ravnoe")
+//}
+
+//else if (a < 0){
+    //console.log("negative")
+//}
